@@ -43,3 +43,24 @@ etl-process/
 ├── README.md                          # Documentation
 └── package.json                       # Node.js dependencies and scripts
 ```
+
+### Steps to Run the Project
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/<your-username>/nodejs-etl-process.git
+   cd nodejs-etl-process
+
+1. **Install dependencies: Run the following**:
+   ```bash
+   npm install
+
+3. **Run the application:**
+    ```bash
+    node src/app.js
+
+4. **Access the API:**
+    ```bash
+    http://localhost:3000/api/universities/download
+    
+
